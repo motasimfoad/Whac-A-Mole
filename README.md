@@ -11,5 +11,5 @@ Simple whac a mole game influenced by Pokemon having
 - Animation
 - Inspired by pokemon
 
-![Whac a mole web game inspired by pokemonwebsite Image](https://motasimfoad.com/webasset/wam/1.png)
 ![Whac a mole web game inspired by pokemonwebsite Image](https://motasimfoad.com/webasset/wam/2.png)
+![Whac a mole web game inspired by pokemonwebsite Image](https://motasimfoad.com/webasset/wam/1.png)
